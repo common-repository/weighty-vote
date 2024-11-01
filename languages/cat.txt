@@ -1,0 +1,8 @@
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\change.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\class.weightyvote_admin.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\class.weightyvote_select.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\class.weightyvote_settings.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\class.weightyvote_vote.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\class.weightyvote_widget.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\select.pot
+C:\xampp\htdocs\wordpress\wp-content\plugins\weightyvote_widget_wp\languages\vote.pot

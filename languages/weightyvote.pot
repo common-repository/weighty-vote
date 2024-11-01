@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-04 10:09+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: change.php:7 change.php:19 vote.php:14
+msgid "Vote"
+msgstr ""
+
+#: change.php:10 vote.php:5
+msgid "Category"
+msgstr ""
+
+#: change.php:28
+msgid "Widget"
+msgstr ""
+
+#: change.php:30
+msgid "Border color"
+msgstr ""
+
+#: change.php:34
+msgid "Border size"
+msgstr ""
+
+#: change.php:38
+msgid "Shadow intensity"
+msgstr ""
+
+#: change.php:42
+msgid "Shadow size"
+msgstr ""
+
+#: change.php:48
+msgid "Question"
+msgstr ""
+
+#: change.php:50
+msgid "Question background"
+msgstr ""
+
+#: change.php:56
+msgid "Question text"
+msgstr ""
+
+#: change.php:61 change.php:118
+msgid "Separator"
+msgstr ""
+
+#: change.php:66 change.php:123
+msgid "Line size"
+msgstr ""
+
+#: change.php:78
+msgid "Response"
+msgstr ""
+
+#: change.php:80
+msgid "Response background"
+msgstr ""
+
+#: change.php:85
+msgid "Response text"
+msgstr ""
+
+#: change.php:90
+msgid "Votes background"
+msgstr ""
+
+#: change.php:95
+msgid "Votes text"
+msgstr ""
+
+#: change.php:100
+msgid "Button background"
+msgstr ""
+
+#: change.php:105
+msgid "Button text"
+msgstr ""
+
+#: change.php:110
+msgid "Result link"
+msgstr ""
+
+#: change.php:116
+msgid "Statistic"
+msgstr ""
+
+#: change.php:128
+msgid "Statistic background"
+msgstr ""
+
+#: change.php:133
+msgid "Statistic text"
+msgstr ""
+
+#: change.php:138
+msgid "Counter background"
+msgstr ""
+
+#: change.php:143
+msgid "Counter text"
+msgstr ""
+
+#: change.php:153 vote.php:26
+msgid "Save"
+msgstr ""
+
+#: class.weightyvote_admin.php:85 class.weightyvote_settings.php:31
+msgid "Settings"
+msgstr ""
+
+#: class.weightyvote_select.php:23
+msgid "Appended votes"
+msgstr ""
+
+#: class.weightyvote_settings.php:84
+msgid "removing..."
+msgstr ""
+
+#: class.weightyvote_settings.php:108
+msgid "publish..."
+msgstr ""
+
+#: class.weightyvote_settings.php:108
+msgid "unpublish..."
+msgstr ""
+
+#: class.weightyvote_settings.php:133 class.weightyvote_settings.php:187
+msgid "saving..."
+msgstr ""
+
+#: class.weightyvote_vote.php:37
+msgid "Change vote"
+msgstr ""
+
+#: class.weightyvote_widget.php:29
+msgid "Weighty Vote widget. Append vote to your web page."
+msgstr ""
+
+#: class.weightyvote_widget.php:83 select.php:9
+msgid "Title"
+msgstr ""
+
+#: class.weightyvote_widget.php:92
+msgid "Show title"
+msgstr ""
+
+#: class.weightyvote_widget.php:95
+msgid "Change widget"
+msgstr ""
+
+#: select.php:4
+msgid "Widgets not appended to sidebars."
+msgstr ""
+
+#: select.php:10
+msgid "Category / Question"
+msgstr ""
+
+#: select.php:11
+msgid "Published"
+msgstr ""
+
+#: select.php:12
+msgid "Edit"
+msgstr ""
+
+#: select.php:13
+msgid "Remove"
+msgstr ""
